@@ -1,0 +1,63 @@
+Software de Gestão da Igreja 
+
+1- Cadastrar Usuários 
+1.1- Novo usuário
+1.2-Validar usuário 
+1.2- Deletar usuário;
+1.3-  Modificar usuário existente;
+
+2- Cadastrar membros 
+2.1- Validar membros 
+3- Cadastrar serviços
+3.1- Validar serviços
+
+4- Exibir membros cadastrados
+4.1-Todos
+4.2- Por departamento 
+4.3-  Por Gênero;
+4.4- Por função;
+4.5- Por departamento 
+4.6-  Por Área de formação 
+4.6.1- Por formação bíblica
+4.6.2 - Formação Profissional 
+4.6.2.1 - Sociais
+4.6.2.2- Exatas.
+4.7- Por filiação;
+4.8- Exibir perfil Individual.
+4.8.1-Historico médico 
+4.8.2- Histórico profissional 
+4.8.3- Histórico Religioso 
+4.8.4- Histórico financeiro.
+
+
+5 - Gerir Cursos 
+5.1- Cadastrar Novo Curso
+5.1.2- Exibir Curso Cadastrado
+5.2- Cadastrar Aluno
+5.2.1- Exibir Alunos Cadastrados
+6.1- Pautas
+6.1.2- Parciais
+6.1.2- Final 
+7- Certificados 
+
+8- Finanças 
+8.1- Ofertas 
+8.1.2- voluntárias
+8.1.3- Ação de graças 
+8.2- Contribuições 
+8.3- Dizimo
+
+9- Relatórios 
+9.1- Semanal
+9.2- Quinzenal
+9.3- Mensal
+9.4- Trimestral 
+9.5- Semestral 
+9.6- Anual
+
+
+
+10- Acervo
+10.1-Carta de recomendação 
+10.2-Convites
+10.3-Elogio fúnebre.
